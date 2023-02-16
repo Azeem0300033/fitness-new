@@ -139,7 +139,7 @@ p {
 
 .h1-title{
     font-family: 'Catamaran', sans-serif;
-    font-size: 80px;
+    font-size: 50px!important;
     color: #ffffff;
     font-weight: 900;
     line-height: 90px;
