@@ -164,7 +164,7 @@ p {
 }
 
 .subtitle {
-  background-color: rgb(253,61,12,0.1);
+  background-color: rgba(12, 108, 253, 0.1);
   text-align: center;
   border-radius: 10px;
   padding: 15px 28px;
@@ -1564,7 +1564,7 @@ p {
 }
 
 .banner-title-two .main-banner-subtitle-box {
-  background-color: rgb(253,61,12,0.1);
+  background-color: rgba(12, 96, 253, 0.1);
 }
 
 .banner-play-btn {
@@ -1712,7 +1712,7 @@ p {
 }
 
 .heart-icon {
-  background-color: rgb(253,61,12,0.1);
+  background-color: rgba(12, 88, 253, 0.1);
   border-radius: 100%;
   width: 55px;
   height: 55px;
