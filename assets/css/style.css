@@ -2991,6 +2991,13 @@ section.main-video {
   background-color: #141b22;
   z-index: 0;
 }
+.main-download-app1 {
+    position: relative;
+    padding-top: 70px!important;
+    padding-bottom: 50px;
+    background-color: #141b22;
+    z-index: 0;
+}
 
 .download-app-overlay-bg {
   position: absolute;
@@ -6086,7 +6093,7 @@ section.main-video {
 
 .main-classes {
   padding-top: 340px;
-  padding-bottom: 100px;
+  padding-bottom: 10px!important;
 }
 
 .main-schedule {
