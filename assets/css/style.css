@@ -2986,8 +2986,8 @@ section.main-video {
 /*==========Download App CSS Start==========*/
 .main-download-app {
   position: relative;
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 30px!important;
+  padding-bottom: 40px;
   background-color: #141b22;
   z-index: 0;
 }
