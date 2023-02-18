@@ -3431,7 +3431,7 @@ section.main-video {
 }
 
 .footer-social ul li a:hover {
-  background-color: rgb(253,61,12,1);
+  background-color: #0C3FA5;
   transition: all 0.2s cubic-bezier(0.98, 0.57, 1, 1) 0s;
 }
 
