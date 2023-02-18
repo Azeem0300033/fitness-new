@@ -29,7 +29,7 @@ try {
 
     //Recipients
     $mail->setFrom('welcome@bixcash.com');
-    $mail->addAddress('dev.muhammadazeem@gmail.com', 'Azeem');
+    $mail->addAddress($email, $name);     //Add a recipient
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
